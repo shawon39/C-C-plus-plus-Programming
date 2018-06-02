@@ -1,0 +1,14 @@
+D:\C programming\csacademy\Round #70\A.cpp: In function 'int main()':
+D:\C programming\csacademy\Round #70\A.cpp:11:36: error: '>>' should be '> >' within a nested template argument list
+     multimap <int,int, greater <int>> m;
+                                    ^
+D:\C programming\csacademy\Round #70\A.cpp:31:14: error: 'f' does not name a type
+     for(auto f:m)
+              ^
+D:\C programming\csacademy\Round #70\A.cpp:36:5: error: expected ';' before 'return'
+     return 0;
+     ^
+D:\C programming\csacademy\Round #70\A.cpp:36:5: error: expected primary-expression before 'return'
+D:\C programming\csacademy\Round #70\A.cpp:36:5: error: expected ';' before 'return'
+D:\C programming\csacademy\Round #70\A.cpp:36:5: error: expected primary-expression before 'return'
+D:\C programming\csacademy\Round #70\A.cpp:36:5: error: expected ')' before 'return'

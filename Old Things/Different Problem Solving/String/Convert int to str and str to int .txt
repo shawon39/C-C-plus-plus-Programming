@@ -1,0 +1,18 @@
+string intToNum(int add)
+{
+
+    ostringstream convert;
+    convert << add;
+    return convert.str();
+
+}
+
+int numToInt(string ch)
+{
+
+    istringstream buffer(ch);
+    int value;
+    buffer >> value;
+    return value;
+
+}

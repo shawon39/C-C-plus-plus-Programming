@@ -1,0 +1,200 @@
+1. http://acm.timus.ru/problem.aspx?space=1&num=1000 
+2. http://acm.timus.ru/problem.aspx?space=1&num=1264
+3. http://acm.timus.ru/problem.aspx?space=1&num=1293
+4. http://acm.timus.ru/problem.aspx?space=1&num=1409
+5. http://acm.timus.ru/problem.aspx?num=1068
+6. http://acm.timus.ru/problem.aspx?num=1083
+7. http://acm.timus.ru/problem.aspx?num=1086
+8. http://acm.timus.ru/problem.aspx?num=1209
+9. http://lightoj.com:81/volume/problem/1001
+10. http://lightoj.com:81/volume/problem/1008
+11. http://lightoj.com:81/volume/problem/1010
+12. http://lightoj.com:81/volume/problem/1015
+13. http://lightoj.com:81/volume/problem/1022
+14. http://lightoj.com:81/volume/problem/1053
+15. http://lightoj.com:81/volume/problem/1072
+16. http://lightoj.com:81/volume/problem/1072
+17. http://lightoj.com:81/volume/problem/1107
+18. http://lightoj.com:81/volume/problem/1116
+19. http://lightoj.com:81/volume/problem/1136
+20. http://lightoj.com:81/volume/problem/1182
+21. http://lightoj.com:81/volume/problem/1202
+22. http://lightoj.com:81/volume/problem/1211
+23. http://lightoj.com:81/volume/problem/1216
+24. http://lightoj.com:81/volume/problem/1294
+25. http://lightoj.com:81/volume/problem/1305
+26. http://lightoj.com:81/volume/problem/1311
+27. http://lightoj.com:81/volume/problem/1331
+28. http://lightoj.com:81/volume/problem/1433
+29. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36
+30. http://acm.timus.ru/problem.aspx?num=1001
+31. http://acm.timus.ru/problem.aspx?num=1014
+32. http://acm.timus.ru/problem.aspx?num=1020
+33. http://acm.timus.ru/problem.aspx?num=1025
+34. http://acm.timus.ru/problem.aspx?num=1044
+35. http://acm.timus.ru/problem.aspx?num=1079
+36. http://acm.timus.ru/problem.aspx?num=1197
+37. http://acm.timus.ru/problem.aspx?num=1313
+38. http://acm.timus.ru/problem.aspx?num=1319
+39. http://lightoj.com:81/volume/problem/1006
+40. http://lightoj.com:81/volume/problem/1045
+41. http://lightoj.com:81/volume/problem/1109
+42. http://lightoj.com:81/volume/problem/1113
+43. http://lightoj.com:81/volume/problem/1133
+44. http://lightoj.com:81/volume/problem/1214
+45. http://lightoj.com:81/volume/problem/1225
+46. http://lightoj.com:81/volume/problem/1227
+47. http://lightoj.com:81/volume/problem/1241
+48. http://lightoj.com:81/volume/problem/1249
+49. http://lightoj.com:81/volume/problem/1261
+50. http://lightoj.com:81/volume/problem/1338
+51. http://lightoj.com:81/volume/problem/1354
+52. http://lightoj.com:81/volume/problem/1387
+53. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=18&page=show_problem&problem=1552
+54. http://lightoj.com:81/volume/problem/1414
+55. http://acm.timus.ru/problem.aspx?space=1&num=1005
+56. http://acm.timus.ru/problem.aspx?space=1&num=1082
+57. http://lightoj.com:81/volume/problem/1042
+58. http://lightoj.com/volume_showproblem.php?problem=1189
+59. http://acm.timus.ru/problem.aspx?space=1&num=1149
+60. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=208
+61. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=330
+62. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=424
+63. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=514
+64. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=602
+65. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=680
+66. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=778
+67. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=882
+68. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&phttps://uva.onlinejudge.org/index.php?    option=com_onlinejudge&Itemid=8&page=show_problem&problem=1023age=show_problem&problem=1023
+69. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1082
+70. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1222
+71. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1304
+72. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1361
+73. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1469
+74. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1624
+75. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1644
+76. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1753
+77. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1862
+78. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1985
+79. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2091
+80. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2164
+81. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2315
+82. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2493
+83. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2542
+84. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2663
+85. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2827
+86. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2900
+87. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=190
+88. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1013
+89. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3650
+90. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1997
+91. https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=2203
+92. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2787
+93. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=90
+94. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=382
+95. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=580
+96. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=666
+97. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1301
+98. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1603
+99. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2183
+100. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2904
+101. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=129
+102. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=158
+103. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=465
+104. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=465
+105. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=565
+106. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=565
+107. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=569
+108. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=670
+109. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=691
+110. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1226
+111. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1437
+112. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2794
+113. http://lightoj.com/volume_showproblem.php?problem=1023
+114. http://lightoj.com/volume_showproblem.php?problem=1091
+115. http://lightoj.com/volume_showproblem.php?problem=1397
+116. http://lightoj.com/volume_showproblem.php?problem=1309
+117. http://lightoj.com/volume_showproblem.php?problem=1324
+118. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4814
+119. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4821
+120. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=672&page=show_problem&problem=4848
+121. https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=4896
+122. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=643&page=show_problem&problem=4918
+123. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4924
+124. https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4960
+125. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4966
+126. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4985
+127. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=674&page=show_problem&problem=5012
+128. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=5026
+129. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=674&page=show_problem&problem=5059
+130. https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=5070
+131. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4862
+132. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=5014
+133. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=5018
+134. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=5021
+135. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=674&page=show_problem&problem=5065
+136. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=620
+137. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=655
+138. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=898
+139. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1018
+140. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1282
+141. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1310
+142. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1415
+143. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2229
+144. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=566
+145. https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=3048
+146. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=950
+147. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1796
+148. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2446
+149. http://www.spoj.com/problems/AGGRCOW/
+150. http://lightoj.com/volume_showproblem.php?problem=1043
+151. http://lightoj.com/volume_showproblem.php?problem=1048
+152. http://lightoj.com/volume_showproblem.php?problem=1056
+153. http://lightoj.com/volume_showproblem.php?problem=1062
+154. http://lightoj.com/volume_showproblem.php?problem=1076
+155. http://lightoj.com/volume_showproblem.php?problem=1088
+156. http://lightoj.com/volume_showproblem.php?problem=1127
+157. http://lightoj.com/volume_showproblem.php?problem=1137
+158. http://lightoj.com/volume_showproblem.php?problem=1138
+159. http://lightoj.com/volume_showproblem.php?problem=1170
+160. http://lightoj.com/volume_showproblem.php?problem=1196
+161. http://lightoj.com/volume_showproblem.php?problem=1235
+162. http://lightoj.com/volume_showproblem.php?problem=1276
+163. http://lightoj.com/volume_showproblem.php?problem=1280
+164. http://lightoj.com/volume_showproblem.php?problem=1307
+165. http://lightoj.com/volume_showproblem.php?problem=1358
+166. http://lightoj.com/volume_showproblem.php?problem=1383
+167. http://lightoj.com/volume_showproblem.php?problem=1384
+168. http://lightoj.com/volume_showproblem.php?problem=1391
+169. http://lightoj.com/volume_showproblem.php?problem=1146
+170. http://lightoj.com/volume_showproblem.php?problem=1240
+171. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=351
+172. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=961
+173. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1281
+174. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1381
+175. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1611
+176. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1704
+177. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1995
+178. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2267
+179. https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2354
+180. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4801
+181. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4840
+182. https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4841
+183.
+184.
+185.
+186.
+187.
+188.
+189.
+190.
+191.
+192.
+193.
+194.
+195.
+196.
+197.
+198.
+199.
+200.

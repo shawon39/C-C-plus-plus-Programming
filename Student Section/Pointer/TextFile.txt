@@ -1,0 +1,32 @@
+
+Pointers are used in C program to access the memory and manipulate the address.
+
+Declaration of Pointer 
+	int* p; 
+
+As discussed, & is called reference operator. It gives you the address of a variable.
+
+Likewise, there is another operator that gets you the value from the address, 
+it is called a dereference operator (*).
+
+Note: The * sign when declaring a pointer is not a dereference operator. It is just a similar notation that creates a pointer.
+
+Common mistakes when working with pointers
+Suppose, you want pointer pc to point to the address of c. Then,
+
+
+int c, *pc;
+
+// Wrong! pc is address whereas, c is not an address.
+pc = c;  
+
+// Wrong! *pc is the value pointed by address whereas, %amp;c is an address.
+*pc = &c; 
+
+// Correct! pc is an address and, %amp;pc is also an address.
+pc = &c; 
+
+// Correct! *pc is the value pointed by address and, c is also a value.
+*pc = c;
+
+
