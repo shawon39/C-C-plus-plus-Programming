@@ -1,0 +1,27 @@
+void print(struct Node *head)
+{
+    struct Node *current = head;
+    while(current != NULL){
+        cout << current->data <<endl;
+        current = current->next;
+    }
+}
+
+int getCount(struct Node *head)
+{
+    if(head == NULL){
+        return 0;
+    }
+    return 1+getCount(head->next);
+}
+
+int searchData(struct Node *head, int data)
+{
+    if(head == NULL){
+        return 0;
+    }
+    if(head->data == data){
+        return 1;
+    }
+    return searchData(head->next, data);
+}

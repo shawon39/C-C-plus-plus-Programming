@@ -1,22 +1,9 @@
-#include <stdio.h>
+#include <bits/stdc++.h>
+using namespace std;
 
-int solve(int n)
+int mian()
 {
-    if (!n) return 0;
-    int res = (n / 3) * 2;
-    if (n % 3 == 2) res++;
-    return res;
-}
+    double r1,r2,h >> p;
+    cin >> r1 >> r2 >> h >> p;
 
-int main()
-{
-
-    int caseNo, cases = 0, a, b;
-    scanf("%d", &caseNo);
-    while (caseNo--)
-    {
-        scanf("%d %d", &a, &b);
-        printf("Case %d: %d\n", ++cases, solve(b) - solve(a - 1));
-    }
-    return 0;
 }
