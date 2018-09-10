@@ -1,0 +1,112 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long int
+#define ld long double
+#define pb    push_back
+#define ppb   pop_back
+#define mkp   make_pair
+#define ff    first
+#define ss    second
+#define sf    scanf
+#define pf    printf
+#define nl    printf("\n")
+#define yes   printf("YES\n")
+#define no    printf("NO\n")
+#define sci(x)              scanf("%d", &x)
+#define scii(x, y)          scanf("%d %d", &x, &y)
+#define sciii(x, y, z)      scanf("%d %d %d", &x, &y, &z)
+#define scl(x)              scanf("%lld", &x)
+#define scll(x, y)          scanf("%lld %lld", &x, &y)
+#define sclll(x, y, z)      scanf("%lld %lld %lld", &x, &y, &z)
+#define SQR(x)              ((x)*(x))
+#define sortAll(c)              c.begin(), c.end()
+#define TEST  {cout<<"Okay !"<<end; return;}
+#define fast ios_base::sync_with_stdio(0);cin.tie(NULL);cout.tie(NULL)
+#define dbg1(x) cout<< #x<<" = "<<x<<endl;
+#define dbg2(x,y) cout<<#x<<" = "<<x<<" , "<<#y<<" = "<<y<<endl;
+#define loop(v) for(auto x : v){ cout << x << " "; } cout << endl;
+#define unique(v)           sort(ALL(v)), (v).erase(unique(ALL(v)),v.end())
+#define common(a,b)         sort(ALL(a)), sort(ALL(b)), a.erase(set_intersection(ALL(a),ALL(b),a.begin()),a.end())
+#define uncommon(a,b)       sort(ALL(a)), sort(ALL(b)), a.erase(set_symmetric_difference(ALL(a),ALL(b),a.begin()),a.end())
+//int floop(int arr[], int n) { for(int i=0; i<n; i++) { cout << arr[i] << " "; } cout <<endl; }
+//1e18 , -1e18, 1e9, -1e9
+
+int main()
+{
+    
+}
+
+--------------------
+TIME TAKEN
+--------------------
+
+fast; clock_t tStart = clock();
+printf("\n>>Time taken: %.10fs\n", (double) (clock() - tStart) / CLOCKS_PER_SEC);
+
+---------------------
+FILE INPUT OUTPUT 
+---------------------
+
+void inputAndOutput()
+{
+    #ifndef ONLINE_JUDGE
+    freopen("D:\\C--Programming\\Testing\\input.txt", "r", stdin);
+    freopen("D:\\C--Programming\\Testing\\output.txt", "w", stdout);
+    #endif 
+}
+
+
+-----------------------
+
+
+// sort(arr, arr+105, greater<int>());
+
+bool cmp(string a,string b){
+   return a.size() < b.size();
+} //sort(s,s+n,cmp);
+
+// descending order
+bool myfun(int a, int b){
+    return a>b;
+}
+
+struct Greater {
+    template<class T>
+    bool operator()(T const &a, T const &b) const { return a > b; }
+};
+//sort(v.begin(), v.end(), Greater());
+//v.erase (v.begin());
+
+// multimap.insert( make_pair(12, 34) );
+// multimap <int, string> :: reverse_iterator rit;
+
+// for (rit=mmap.rbegin(); rit!=mmap.rend(); ++rit)
+    //cout << rit->first << rit->second <<endl;
+
+// b.find(a) != -1
+
+
+int main()
+{
+    //inputAndOutput();
+
+        
+}
+
+-----------------------------------------------------------------------------------
+
+
+// vector ----------------
+
+vector<int>v(2,0);
+// return vector
+vector<int> compareTriplets(vector<int> a, vector<int> b) {
+
+    vector<int>v(2,0);  
+    for(int i=0; i<3; i++) {
+        a[i] > b[i] ? v[0]++ : v[0];
+        a[i] < b[i] ? v[1]++ : v[1];
+    }
+    return v;
+}
