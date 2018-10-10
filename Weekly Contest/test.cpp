@@ -1,45 +1,51 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-#define PI acos(-1.0)
-#define error 0.0001
-
+#include<stdio.h>
 int main()
 {
-    int test; cin >> test;
-    while(test--)
+    int array[100],Size,i,j,temp=0,x,y,z,k;
+    printf("Array Size: ");
+    scanf("%d",&Size);
+    printf("\nElement: ");
+
+    for(i=0; i<Size; i++)
     {
-        double r, arr[100005];
-        int n,f;
-        cin >> n >> f;
-
-        double mx=0;
-        for(int i=0; i<n; i++)
-        {
-            cin >> r;
-            arr[i] = PI*r*r;
-            mx= max(arr[i],mx);
-        }
-
-        double high=mx, low=0, lol=0, mid;
-
-        while( high-low > error )
-        {
-            int ct=0;
-            mid = ((high+low)/2.0);
-
-            for(int i=0; i<n; i++) { ct += arr[i]/mid; }
-
-            if( ct >= f+1 )
-            {
-                lol = mid;
-                low = mid;
-            }
-            else high = mid;
-
-        }
-        printf("%.4f\n",lol);
+        scanf("%d",&array[i]);
     }
+    for(i=0; i<Size; i++)
+    {
+        for(j=i+1; j<Size; j++)
+        {
+            if(array[i]>array[j])
+            {
+                temp=array[i];
+                array[i]=array[j];
+                array[j]=temp;
+            }
+        }
+
+    }
+    printf("\nSorted elements: ");
+    for(i=0; i<Size; i++)
+    {
+        printf("%d ",array[i]);
+    }
+
+    if(Size%2==0)
+    {
+        x = (Size/2);
+        y = x-1;
+        z= array[x]+array[y];
+        printf("\nTwo point: %d %d\n",array[x],array[y]);
+        printf("Ans: %d\n", z/2);
+    }
+    else if(Size%2!=0)
+    {
+        k = Size/2;
+        printf("\nMiddle number: %d\n",array[k]);
+        printf("Ans: %d\n", array[k]);
+    }
+
     return 0;
 }
 
+
+// 12 45 2 3 1 78 54 324 53 43 67

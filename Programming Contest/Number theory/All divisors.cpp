@@ -39,7 +39,6 @@ int alldivisor(int n)
     for(int i=1; i<=n; i++) {
         for(int j=i; j<=n; j+=i) {
             divisors[j].push_back(i);
-            //dbg2(j,i);
         }
     }
 }

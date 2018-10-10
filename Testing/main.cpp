@@ -7,6 +7,8 @@ using namespace std;
 #define loop(v) for(auto x : v2){ cout << x << " "; } cout << endl;
 #define ll long long int
 //for(int i=1; i<=n; i++ ) { cout << arr[i] << " "; } cout << endl;
+template <class T> inline T gcd(T a,T b){if(b==0)return a;return gcd(b,a%b);}
+template <class T> inline T lcm(T a,T b) {a=abs(a);b=abs(b); return (a/gcd(a,b))*b;}
 
 void inputAndOutput()
 {
@@ -20,10 +22,8 @@ int main()
 {
     inputAndOutput();
     
-    for(int i='A'; i<='Z'; i++)
-    {
-        printf("%c", i+32);
-    }
+    cout << gcd(3,4);
+    cout << endl <<lcm(3,4);
 
     return 0;
 }

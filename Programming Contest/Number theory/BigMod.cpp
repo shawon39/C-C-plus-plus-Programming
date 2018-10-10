@@ -9,7 +9,6 @@ int BigMod(int b, int p, int m)
         int half = BigMod(b,p/2,m);
         return (half*half)%m;
     }
-
     else if( p%2 == 1 ){
         int part1 = b%m;
         int part2 = BigMod(b,p-1,m);
