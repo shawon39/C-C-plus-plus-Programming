@@ -12,7 +12,7 @@ int main()
   //num = 100;
 
   printf("Value of *p: %d \n", *p);
-  printf("Value of *p: %u \n\n", p);
+  printf("Value of p: %u \n\n", p);
 
   printf("Number: %d \n", num);
   printf("Address: %u \n", &num);
