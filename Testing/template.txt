@@ -41,6 +41,7 @@ template <class T> inline T gcd(T a,T b){if(b==0)return a;return gcd(b,a%b);}
 template <class T> inline T lcm(T a,T b) {a=abs(a);b=abs(b); return (a/gcd(a,b))*b;}
 //int floop(int arr[], int n) { for(int i=0; i<n; i++) { cout << arr[i] << " "; } cout <<endl; }
 //1e18 , -1e18, 1e9, -1e9
+int n,m,x,y,a,b,ct,sum,lol,ans;
 
 int main()
 {
